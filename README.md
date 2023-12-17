@@ -12,4 +12,4 @@ Future improvements as suggested by chatGPT:
 6) continue working to comply with PEP8
 7) Bonus: I would really like to make a slow but pretty dynamic visualization of the board as it iterates,
    with clear indication of the cells being tried, the choices being made, and successes or failures when reached.
-   Highlighted cells, colors, flashing cells, etc.  
+   Highlighted cells, colors, flashing cells, etc.  reprinter.py is a code snippet I would use as a startpoint.
